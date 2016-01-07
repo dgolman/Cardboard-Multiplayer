@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CB511376-E3CD-04EB-547A-19265A19582A}") = "Cardboard-Network", "Assembly-CSharp-firstpass.csproj", "{49E195D0-5775-2ADC-6434-9D04957D6520}"
+EndProject
+Project("{CB511376-E3CD-04EB-547A-19265A19582A}") = "Cardboard-Network", "Assembly-CSharp.csproj", "{4C435B46-6839-5CE1-CF51-BB8EBB5D0063}"
+EndProject
+Project("{CB511376-E3CD-04EB-547A-19265A19582A}") = "Cardboard-Network", "Assembly-CSharp-Editor.csproj", "{CA5F66F9-E788-3B11-ADDE-44DA76C06378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E195D0-5775-2ADC-6434-9D04957D6520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E195D0-5775-2ADC-6434-9D04957D6520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E195D0-5775-2ADC-6434-9D04957D6520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E195D0-5775-2ADC-6434-9D04957D6520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C435B46-6839-5CE1-CF51-BB8EBB5D0063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C435B46-6839-5CE1-CF51-BB8EBB5D0063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C435B46-6839-5CE1-CF51-BB8EBB5D0063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C435B46-6839-5CE1-CF51-BB8EBB5D0063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5F66F9-E788-3B11-ADDE-44DA76C06378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5F66F9-E788-3B11-ADDE-44DA76C06378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5F66F9-E788-3B11-ADDE-44DA76C06378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5F66F9-E788-3B11-ADDE-44DA76C06378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
